@@ -27,6 +27,21 @@ body {
   margin: 5px 0;
   font-size: 1.2em;
 }
+#HeaderEmailLink{
+  color: #ffff;
+  text-decoration: none;
+  font-size: 18px;
+}
+.HeaderEmail{
+  display: flex;
+align-items: center;
+justify-content: center;
+gap: 5px;
+}
+#HeaderEmailLink:hover {
+  text-decoration: underline;
+}
+
 
 .App {
   padding: 20px;

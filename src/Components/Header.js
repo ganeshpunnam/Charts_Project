@@ -8,7 +8,6 @@ const Header = () => {
       <div className='HeaderEmail'>
       <p>Email:</p>
       <a id='HeaderEmailLink' href="mailto:punnamganesh752@gmail.com" className="email-link"> Punnamganesh752@gmail.com</a>
-
       </div>
       <p>Contact: 9542455696</p>
     </div>

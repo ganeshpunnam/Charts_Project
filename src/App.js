@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Header from './Header';
-import Table from './Table';
-import Chart from './Chart';
+import Header from './Components/Header';
+import Table from './Components/Table';
+import Chart from './Components/Chart';
 import './App.css';
 import JsonData from './data.json';
 
